@@ -1,7 +1,7 @@
 # echarts-three-earth
 
-IFE homework
+[LIVE DEMO](https://hujiulong.github.io/echarts-three-earth/)
 
-A 3d earth, base on echarts and three.js
+使用echarts和three.js来画一个三维地球
 
-[demo](https://hujiulong.github.io/echarts-three-earth/)
+![earth](./earth.png)
